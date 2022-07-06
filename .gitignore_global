@@ -1,0 +1,5 @@
+#folder with donloaded db
+data/
+
+#folder with jupiter data
+.ipynb_checkpoints/
